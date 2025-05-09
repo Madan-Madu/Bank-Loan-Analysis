@@ -1,0 +1,48 @@
+📊 Bank Loan Analysis Project
+
+A complete end-to-end Data Analyst portfolio project using MS SQL Server and Power BI to analyze a bank's loan data and uncover key insights into loan performance, borrower profiles, and repayment trends.
+
+🔧 Tools & Technologies Used
+MS SQL Server 2019 – Data cleaning, transformation, and KPI query logic.
+Power BI (June 2023) – Interactive dashboard creation and data visualization.
+Excel (2021) – Initial data exploration and validation.
+
+🎯 Project Objective
+
+To assist a bank in understandin🛠️ Key Functionalities
+SQL Tasks
+Created and structured relational database
+Wrote advanced queries for:
+Total Loan Applications
+Total Funded Amount
+Amount Received
+Avg. Interest Rate & Avg. Debt-to-Income Ratio (DTI)
+Used concepts like GROUP BY, CTE, CAST, PARTITION BY, DATEPART, etc.g:
+Loan application patterns and trends.
+Repayment behaviors and cash flow.
+Risk assessment by classifying Good Loans vs. Bad Loans.
+Borrower profiles based on employment, region, and loan purpose.
+
+Power BI Dashboards
+
+📋 Summary Dashboard
+KPIs: Total Loans, Funded Amount, Amount Received, Avg. DTI, Avg. Interest Rate.
+Split by Good Loan vs. Bad Loan performance.
+MTD (Month-to-Date) and MoM (Month-over-Month) trend analysis.
+
+🌍 Overview Dashboard
+Regional insights using a Filled Map.
+Loan purpose, loan term, employment length analysis.
+Home ownership impact via Tree Maps.
+
+📊 Details Dashboard
+Grid view showing all major loan and borrower metrics.
+One-stop snapshot for deep-dive analysis.
+
+✅ Key Outcomes
+Identified risk-prone borrower segments and regional loan patterns.
+Enhanced business decision-making with MTD and MoM performance tracking.
+Provided stakeholders with clear and actionable loan insights.
+
+
+
